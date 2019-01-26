@@ -1,4 +1,4 @@
-### 百度MIP通用随机URL自动推送程序v1.1
+### 神马MIP通用随机URL自动推送程序v1.1
 ![avatar](url/img/config.jpg)
 * 一个域名一个配置文件如 mip.penc.cn.ini
 * <code>timer_controller_1</code> 到 <code>timer_controller_3</code> 配置推送时间 域名多的话请不要再同一个时间推送 服务器撑不住
